@@ -38,19 +38,68 @@ def anadirCaracter(url):
     
     return tituloString
 
+with open('categorias.txt', 'r') as file:
+        categorias = file.read().splitlines()
 
 
-
-opcion = int(input("añadir caracter [1], añadir palabra [2]: "))
+opcion = int(input("añadir palabra manualmente [1], añadir palabra [2]: "))
 
 if opcion==1:
     while True:
-        url = input("url?: ")
-        anadirCaracter(url)
+        # categoria
+        print("0 : [añadir categoría]")
+        for i in range(1,len(categorias)):
+            print(str(i)+" : "+categorias[i])
+
+        categoriaInput = int(input("categoría?: "))
+
+        if categoriaInput==0:
+            categoriaNueva= str(input("Categoria Nueva: "))
+            
+            categorias.append(categoriaNueva)
+
+            with open("categorias.txt", "a", encoding="utf-8") as file:
+                file.write("\n"+categoriaNueva)
+            categoria = categoriaNueva
+        else:
+            categoria = categorias[categoriaInput]
+        
+        #pinyin
+
+        pinyin = str(input("pinyin: "))
+
+        #traduccion
+        traduccion = str(input("traduccion: "))
+
+        #caracter
+        caracteres = []
+        linkDeCaracter = ""
+        i = 1
+        while True:
+            linkDeCaracter = str(input("caracter "+ str(i) + " : "))
+            if linkDeCaracter == "fin": break
+            caracteres.append(anadirCaracter(linkDeCaracter))
+            i+=1
+        print(caracteres)
+
+        with open("palabras.txt", "a", encoding="utf-8") as file:
+            file.write(",\n{")
+            file.write("categoria: " + "\"" + categoria + "\",\n")
+            file.write("//pinyin\n")
+            file.write("pinyin: " + "\"" + pinyin + "\",\n")
+            file.write("//traduccion\n")
+            file.write("traduccion: " + "\"" + traduccion + "\",\n")
+            file.write("//caracter\n")
+            file.write("caracter: ")
+            file.write("diCh."+caracteres[0])
+
+
+            for caracter in caracteres[1:]:
+                file.write(" + diCh."+caracter)
+            file.write("\n")
+            file.write("}")
+
 elif opcion==2:
-    
-    with open('categorias.txt', 'r') as file:
-        categorias = file.read().splitlines()
 
     while True:
 
@@ -63,7 +112,7 @@ elif opcion==2:
         for i in range(1,len(categorias)):
             print(str(i)+" : "+categorias[i])
 
-        categoriaInput = int(input("elección?: "))
+        categoriaInput = int(input("categoría?: "))
 
         if categoriaInput==0:
             categoriaNueva= str(input("Categoria Nueva: "))
@@ -71,7 +120,7 @@ elif opcion==2:
             categorias.append(categoriaNueva)
 
             with open("categorias.txt", "a", encoding="utf-8") as file:
-                file.write(categoriaNueva+"\n")
+                file.write("\n"+categoriaNueva)
             categoria = categoriaNueva
         else:
             categoria = categorias[categoriaInput]

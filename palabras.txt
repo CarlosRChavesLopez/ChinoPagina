@@ -198,4 +198,1028 @@ pinyin: "zhù",
 traduccion: "desear, felicitar",
 //caracter
 caracter: diCh.祝_zhu_zhù_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "cānjiā",
+//traduccion
+traduccion: "participar,asistir",
+//caracter
+caracter: diCh.参_can_cān_ + diCh.加_jia_jiā_
+},
+{categoria: "partícula",
+//pinyin
+pinyin: "le",
+//traduccion
+traduccion: "partícula modal/partícula de aspecto",
+//caracter
+caracter: diCh.了_le_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "chī",
+//traduccion
+traduccion: "comer",
+//caracter
+caracter: diCh.吃_chi_chī_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "dàngāo",
+//traduccion
+traduccion: "pastel",
+//caracter
+caracter: diCh.蛋_dan_dàn_ + diCh.糕_gao_gāo_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "dàn",
+//traduccion
+traduccion: "huevo",
+//caracter
+caracter: diCh.蛋_dan_dàn_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "gāo",
+//traduccion
+traduccion: "pastel",
+//caracter
+caracter: diCh.糕_gao_gāo_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "măi",
+//traduccion
+traduccion: "comprar",
+//caracter
+caracter: diCh.买_mai_măi_
+},
+{categoria: "clasificador",
+//pinyin
+pinyin: "píng",
+//traduccion
+traduccion: "botella",
+//caracter
+caracter: diCh.瓶_ping_píng_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "pútáojiŭ",
+//traduccion
+traduccion: "vino",
+//caracter
+caracter: diCh.葡_pu_pú_ + diCh.萄_tao_táo_ + diCh.酒_jiu_jiŭ_
+},
+{categoria: "adjetivos",
+//pinyin
+pinyin: "hóng",
+//traduccion
+traduccion: "rojo",
+//caracter
+caracter: diCh.红_hong_hóng_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "pútao",
+//traduccion
+traduccion: "uva",
+//caracter
+caracter: diCh.葡_pu_pú_ + diCh.萄_tao_táo_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "jiŭ",
+//traduccion
+traduccion: "bebida alcohólica",
+//caracter
+caracter: diCh.酒_jiu_jiŭ_
+},
+{categoria: "lugares",
+//pinyin
+pinyin: "Bĕijīng",
+//traduccion
+traduccion: "Pekín",
+//caracter
+caracter: diCh.北_bei_bĕi_ + diCh.京_jing_jīng_
+},
+{categoria: "adjetivos",
+//pinyin
+pinyin: "kuàilè",
+//traduccion
+traduccion: "feliz",
+//caracter
+caracter: diCh.快_kuai_kuài_ + diCh.乐_le_lè_
+},
+{categoria: "adjetivos",
+//pinyin
+pinyin: "piàoliang",
+//traduccion
+traduccion: "guapa(chica), bonito(cosas)",
+//caracter
+caracter: diCh.漂_piao_piào_ + diCh.亮_liang_liàng_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "yā",
+//traduccion
+traduccion: "pato",
+//caracter
+caracter: diCh.鸭_ya_yā_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "hē",
+//traduccion
+traduccion: "beber",
+//caracter
+caracter: diCh.喝_he_hē_
+},
+{categoria: "tiempo",
+//pinyin
+pinyin: "zài",
+//traduccion
+traduccion: "otra vez",
+//caracter
+caracter: diCh.再_zai_zài_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "miàn",
+//traduccion
+traduccion: "tallarines",
+//caracter
+caracter: diCh.面_mian_miàn_
+},
+{categoria: "tiempo",
+//pinyin
+pinyin: "wănshang",
+//traduccion
+traduccion: "noche",
+//caracter
+caracter: diCh.晚_wan_wăn_ + diCh.上_shang_shàng_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "chá",
+//traduccion
+traduccion: "té",
+//caracter
+caracter: diCh.茶_cha_chá_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "kĕlè",
+//traduccion
+traduccion: "Coca Cola",
+//caracter
+caracter: diCh.可_ke_kĕ_ + diCh.乐_le_lè_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "Hànbăo",
+//traduccion
+traduccion: "hamburguesa",
+//caracter
+caracter: diCh.汉_han_hàn_ + diCh.堡_bao_băo_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "miànbāo",
+//traduccion
+traduccion: "pan",
+//caracter
+caracter: diCh.面_mian_miàn_ + diCh.包_bao_bāo_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "niúnăi",
+//traduccion
+traduccion: "leche (de vaca)",
+//caracter
+caracter: diCh.牛_niu_niú_ + diCh.奶_nai_năi_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "mĭfàn",
+//traduccion
+traduccion: "arroz",
+//caracter
+caracter: diCh.米_mi_mĭ_ + diCh.饭_fan_fàn_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "píjiŭ",
+//traduccion
+traduccion: "cerveza",
+//caracter
+caracter: diCh.啤_pi_pí_ + diCh.酒_jiu_jiŭ_
+},
+{categoria: "adverbio",
+//pinyin
+pinyin: "zài",
+//traduccion
+traduccion: "en, dentro de, sobre",
+//caracter
+caracter: diCh.在_zai_zài_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "yīnyuè",
+//traduccion
+traduccion: "música",
+//caracter
+caracter: diCh.音_yin_yīn_ + diCh.乐_le_lè_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "shāng",
+//traduccion
+traduccion: "comercio, negocio",
+//caracter
+caracter: diCh.商_shang_shāng_
+},
+{categoria: "tiempo",
+//pinyin
+pinyin: "chángcháng",
+//traduccion
+traduccion: "frecuentemente",
+//caracter
+caracter: diCh.常_chang_cháng_ + diCh.常_chang_cháng_
+},
+{categoria: "tiempo",
+//pinyin
+pinyin: "cháng",
+//traduccion
+traduccion: "constantemente",
+//caracter
+caracter: diCh.常_chang_cháng_
+},
+{categoria: "adverbio",
+//pinyin
+pinyin: "gēn",
+//traduccion
+traduccion: "con, seguir",
+//caracter
+caracter: diCh.跟_gen_gēn_
+},
+{categoria: "adjetivos",
+//pinyin
+pinyin: "yŏumíng",
+//traduccion
+traduccion: "famoso",
+//caracter
+caracter: diCh.有_you_yŏu_ + diCh.名_ming_míng_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "shū",
+//traduccion
+traduccion: "libro",
+//caracter
+caracter: diCh.书_shu_shū_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "bào",
+//traduccion
+traduccion: "periódico",
+//caracter
+caracter: diCh.报_bao_bào_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "bĕnzi",
+//traduccion
+traduccion: "cuaderno",
+//caracter
+caracter: diCh.本_ben_bĕn_ + diCh.子_zi_zĭ_
+},
+{categoria: "adverbio",
+//pinyin
+pinyin: "nàr",
+//traduccion
+traduccion: "allí",
+//caracter
+caracter: diCh.那_na_nà_ + diCh.儿_er_ér_
+},
+{categoria: "etiqueta",
+//pinyin
+pinyin: "xiānsheng",
+//traduccion
+traduccion: "señor",
+//caracter
+caracter: diCh.先_xian_xiān_ + diCh.生_sheng_shēng_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "yào",
+//traduccion
+traduccion: "querer",
+//caracter
+caracter: diCh.要_yao_yào_
+},
+{categoria: "etiqueta",
+//pinyin
+pinyin: "shīfu",
+//traduccion
+traduccion: "maestro, profesional de oficio",
+//caracter
+caracter: diCh.师_shi_shī_ + diCh.傅_fu_fù_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "xiāngjiāo",
+//traduccion
+traduccion: "plátano",
+//caracter
+caracter: diCh.香_xiang_xiāng_ + diCh.蕉_jiao_jiāo_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "píngguŏ",
+//traduccion
+traduccion: "manzana",
+//caracter
+caracter: diCh.苹_ping_píng_ + diCh.果_guo_guŏ_
+},
+{categoria: "etiqueta",
+//pinyin
+pinyin: "duì bùqĭ",
+//traduccion
+traduccion: "lo siento",
+//caracter
+caracter: diCh.对_dui_duì_ + diCh.不_bu_bù_ + diCh.起_qi_qĭ_
+},
+{categoria: "preguntas",
+//pinyin
+pinyin: "zĕnme",
+//traduccion
+traduccion: "¿cómo?",
+//caracter
+caracter: diCh.怎_zen_zĕn_ + diCh.么_me_
+},
+{categoria: "adjetivos",
+//pinyin
+pinyin: "róngyì",
+//traduccion
+traduccion: "fácil",
+//caracter
+caracter: diCh.容_rong_róng_ + diCh.易_yi_yì_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "qián",
+//traduccion
+traduccion: "dinero",
+//caracter
+caracter: diCh.钱_qian_qián_
+},
+{categoria: "clasificador",
+//pinyin
+pinyin: "jīn",
+//traduccion
+traduccion: "clasificador de peso-equivalente a medio kilo",
+//caracter
+caracter: diCh.斤_jin_jīn_
+},
+{categoria: "clasificador",
+//pinyin
+pinyin: "kuài",
+//traduccion
+traduccion: "clasificador para unidades básicas de moneda china",
+//caracter
+caracter: diCh.块_kuai_kuài_
+},
+{categoria: "clasificador",
+//pinyin
+pinyin: "máo",
+//traduccion
+traduccion: "clasificador para unidades de moneda china",
+//caracter
+caracter: diCh.毛_mao_máo_
+},
+{categoria: "adjetivos",
+//pinyin
+pinyin: "guì",
+//traduccion
+traduccion: "caro, apreciado",
+//caracter
+caracter: diCh.贵_gui_guì_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "zuò",
+//traduccion
+traduccion: "hacer",
+//caracter
+caracter: diCh.做_zuo_zuò_
+},
+{categoria: "clasificador",
+//pinyin
+pinyin: "fēn",
+//traduccion
+traduccion: "minuto, clasificador de unidades de moneda china",
+//caracter
+caracter: diCh.分_fen_fēn_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "sòng",
+//traduccion
+traduccion: "regalar",
+//caracter
+caracter: diCh.送_song_sòng_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "gĕi",
+//traduccion
+traduccion: "dar",
+//caracter
+caracter: diCh.给_gei_gĕi_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "zhăo",
+//traduccion
+traduccion: "dar cambio",
+//caracter
+caracter: diCh.找_zhao_zhăo_
+},
+{categoria: "clasificador",
+//pinyin
+pinyin: "yuán",
+//traduccion
+traduccion: "clasificador para unidades básicas de moneda china, pero utilizado en la lengua escrita",
+//caracter
+caracter: diCh.元_yuan_yuán_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "bĭ",
+//traduccion
+traduccion: "lapiz",
+//caracter
+caracter: diCh.笔_bi_bĭ_
+},
+{categoria: "clasificador",
+//pinyin
+pinyin: "zhī",
+//traduccion
+traduccion: "clasificador para utelsilios con forma de palo, como lápices",
+//caracter
+caracter: diCh.支_zhi_zhī_
+},
+{categoria: "clasificador",
+//pinyin
+pinyin: "fèn",
+//traduccion
+traduccion: "clasificador para publicaciones como periodicos",
+//caracter
+caracter: diCh.份_fen_fèn_
+},
+{categoria: "clasificador",
+//pinyin
+pinyin: "bĕn",
+//traduccion
+traduccion: "clasificador (para libros)",
+//caracter
+caracter: diCh.本_ben_bĕn_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "bēi",
+//traduccion
+traduccion: "taza",
+//caracter
+caracter: diCh.杯_bei_bēi_
+},
+{categoria: "profesiones",
+//pinyin
+pinyin: "shòuhuòyuán",
+//traduccion
+traduccion: "dependiente, vendedor",
+//caracter
+caracter: diCh.售_shou_shòu_ + diCh.货_huo_huò_ + diCh.员_yuan_yuán_
+},
+{categoria: "profesiones",
+//pinyin
+pinyin: "zuòjiā",
+//traduccion
+traduccion: "autor, escritor",
+//caracter
+caracter: diCh.作_zuo_zuò_ + diCh.家_jia_jiā_
+},
+{categoria: "adjetivos",
+//pinyin
+pinyin: "piányi",
+//traduccion
+traduccion: "barato, económico",
+//caracter
+caracter: diCh.便_bian_biàn_ + diCh.宜_yi_yí_
+},
+{categoria: "lugares",
+//pinyin
+pinyin: "shūdiàn",
+//traduccion
+traduccion: "librería",
+//caracter
+caracter: diCh.书_shu_shū_ + diCh.店_dian_diàn_
+},
+{categoria: "lugares",
+//pinyin
+pinyin: "tĭyùguăn",
+//traduccion
+traduccion: "gimnasio",
+//caracter
+caracter: diCh.体_ti_tĭ_ + diCh.育_yu_yù_ + diCh.馆_guan_guăn_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "mài",
+//traduccion
+traduccion: "vender",
+//caracter
+caracter: diCh.卖_mai_mài_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "huì",
+//traduccion
+traduccion: "saber hacer",
+//caracter
+caracter: diCh.会_hui_huì_
+},
+{categoria: "adverbio",
+//pinyin
+pinyin: "yīdiănr",
+//traduccion
+traduccion: "un poco",
+//caracter
+caracter: diCh.一_yi_yī_ + diCh.点_dian_diăn_ + diCh.儿_er_ér_
+},
+{categoria: "profesiones",
+//pinyin
+pinyin: "sījī",
+//traduccion
+traduccion: "conductor",
+//caracter
+caracter: diCh.司_si_sī_ + diCh.机_ji_jī_
+},
+{categoria: "tiempo",
+//pinyin
+pinyin: "diănzhōng",
+//traduccion
+traduccion: "hora (unidad de tiempo)",
+//caracter
+caracter: diCh.点_dian_diăn_ + diCh.钟_zhong_zhōng_
+},
+{categoria: "tiempo",
+//pinyin
+pinyin: "chà",
+//traduccion
+traduccion: "ir corto de, carecer de",
+//caracter
+caracter: diCh.差_cha_chà_
+},
+{categoria: "tiempo",
+//pinyin
+pinyin: "kè",
+//traduccion
+traduccion: "un cuarto (de hora)",
+//caracter
+caracter: diCh.刻_ke_kè_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "huí",
+//traduccion
+traduccion: "volver",
+//caracter
+caracter: diCh.回_hui_huí_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "shàng kè",
+//traduccion
+traduccion: "asistir a clase",
+//caracter
+caracter: diCh.上_shang_shàng_ + diCh.课_ke_kè_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "shàng",
+//traduccion
+traduccion: "ascender, ir",
+//caracter
+caracter: diCh.上_shang_shàng_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "néng",
+//traduccion
+traduccion: "poder",
+//caracter
+caracter: diCh.能_neng_néng_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "dào",
+//traduccion
+traduccion: "llegar",
+//caracter
+caracter: diCh.到_dao_dào_
+},
+{categoria: "etiqueta",
+//pinyin
+pinyin: "năli",
+//traduccion
+traduccion: "no (expresion de negación que denota modestia)",
+//caracter
+caracter: diCh.哪_na_nă_ + diCh.里_li_lĭ_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "jiāo",
+//traduccion
+traduccion: "enseñar",
+//caracter
+caracter: diCh.教_jiao_jiāo_
+},
+{categoria: "idiomas",
+//pinyin
+pinyin: "Yīngyŭ",
+//traduccion
+traduccion: "Inglés (idioma)",
+//caracter
+caracter: diCh.英_ying_yīng_ + diCh.语_yu_yŭ_
+},
+{categoria: "familia",
+//pinyin
+pinyin: "nǚ'ér",
+//traduccion
+traduccion: "hija",
+//caracter
+caracter: diCh.女_nü_nǚ_ + diCh.儿_er_ér_
+},
+{categoria: "tiempo",
+//pinyin
+pinyin: "suìshu",
+//traduccion
+traduccion: "años (edad)",
+//caracter
+caracter: diCh.岁_sui_suì_ + diCh.数_shu_shŭ_
+},
+{categoria: "numero",
+//pinyin
+pinyin: "shŭ",
+//traduccion
+traduccion: "número",
+//caracter
+caracter: diCh.数_shu_shŭ_
+},
+{categoria: "tiempo",
+//pinyin
+pinyin: "hái",
+//traduccion
+traduccion: "todavía",
+//caracter
+caracter: diCh.还_hai_hái_
+},
+{categoria: "preguntas",
+//pinyin
+pinyin: "yīnwèi",
+//traduccion
+traduccion: "porque",
+//caracter
+caracter: diCh.因_yin_yīn_ + diCh.为_wei_wèi_
+},
+{categoria: "preguntas",
+//pinyin
+pinyin: "wèi shénme",
+//traduccion
+traduccion: "¿por qué?",
+//caracter
+caracter: diCh.为_wei_wèi_ + diCh.什_shen_shén_ + diCh.么_me_
+},
+{categoria: "adverbio",
+//pinyin
+pinyin: "wèi",
+//traduccion
+traduccion: "para",
+//caracter
+caracter: diCh.为_wei_wèi_
+},
+{categoria: "tiempo",
+//pinyin
+pinyin: "zuótiān",
+//traduccion
+traduccion: "ayer",
+//caracter
+caracter: diCh.昨_zuo_zuó_ + diCh.天_tian_tiān_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "dōngxi",
+//traduccion
+traduccion: "cosas, objetos",
+//caracter
+caracter: diCh.东_dong_dōng_ + diCh.西_xi_xī_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "wánr",
+//traduccion
+traduccion: "pasarlo bien, jugar",
+//caracter
+caracter: diCh.玩_wan_wán_ + diCh.儿_er_ér_
+},
+{categoria: "tiempo",
+//pinyin
+pinyin: "wănshang",
+//traduccion
+traduccion: "tarde",
+//caracter
+caracter: diCh.晚_wan_wăn_ + diCh.上_shang_shàng_
+},
+{categoria: "tiempo",
+//pinyin
+pinyin: "wăn",
+//traduccion
+traduccion: "tarde",
+//caracter
+caracter: diCh.晚_wan_wăn_
+},
+{categoria: "tiempo",
+//pinyin
+pinyin: "bàn",
+//traduccion
+traduccion: "mitad, medio (para media hora)",
+//caracter
+caracter: diCh.半_ban_bàn_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "xiĕ",
+//traduccion
+traduccion: "escribir",
+//caracter
+caracter: diCh.写_xie_xiĕ_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "Hànzì",
+//traduccion
+traduccion: "Carácter chino",
+//caracter
+caracter: diCh.汉_han_hàn_ + diCh.字_zi_zì_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "zì",
+//traduccion
+traduccion: "caracter",
+//caracter
+caracter: diCh.字_zi_zì_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "shuìjiào",
+//traduccion
+traduccion: "dormir",
+//caracter
+caracter: diCh.睡_shui_shuì_ + diCh.觉_jue_jué_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "shuì",
+//traduccion
+traduccion: "dormir",
+//caracter
+caracter: diCh.睡_shui_shuì_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "qĭ chuáng",
+//traduccion
+traduccion: "levantarse",
+//caracter
+caracter: diCh.起_qi_qĭ_ + diCh.床_chuang_chuáng_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "qĭ",
+//traduccion
+traduccion: "levantarse, ponerse en pie",
+//caracter
+caracter: diCh.起_qi_qĭ_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "chuáng",
+//traduccion
+traduccion: "cama",
+//caracter
+caracter: diCh.床_chuang_chuáng_
+},
+{categoria: "adverbio",
+//pinyin
+pinyin: "yīnggāi",
+//traduccion
+traduccion: "debería",
+//caracter
+caracter: diCh.应_ying_yìng_ + diCh.该_gai_gāi_
+},
+{categoria: "adverbio",
+//pinyin
+pinyin: "gāi",
+//traduccion
+traduccion: "debería",
+//caracter
+caracter: diCh.该_gai_gāi_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "wèntí",
+//traduccion
+traduccion: "pregunta",
+//caracter
+caracter: diCh.问_wen_wèn_ + diCh.题_ti_tí_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "kĕyĭ",
+//traduccion
+traduccion: "poder",
+//caracter
+caracter: diCh.可_ke_kĕ_ + diCh.以_yi_yĭ_
+},
+{categoria: "nombre",
+//pinyin
+pinyin: "chén",
+//traduccion
+traduccion: "Chen (un apellido)",
+//caracter
+caracter: diCh.陈_chen_chén_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "xià kè",
+//traduccion
+traduccion: "salir de clase, acabar la clase",
+//caracter
+caracter: diCh.下_xia_xià_ + diCh.课_ke_kè_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "chī fàn",
+//traduccion
+traduccion: "comer, tomar (una comida)",
+//caracter
+caracter: diCh.吃_chi_chī_ + diCh.饭_fan_fàn_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "kāichē",
+//traduccion
+traduccion: "conducir un coche",
+//caracter
+caracter: diCh.开_kai_kāi_ + diCh.车_che_chē_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "tiàowŭ",
+//traduccion
+traduccion: "bailar",
+//caracter
+caracter: diCh.跳_tiao_tiào_ + diCh.舞_wu_wŭ_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "huídá",
+//traduccion
+traduccion: "responder",
+//caracter
+caracter: diCh.回_hui_huí_ + diCh.答_da_dá_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "lĭwù",
+//traduccion
+traduccion: "regalo",
+//caracter
+caracter: diCh.礼_li_lĭ_ + diCh.物_wu_wù_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "xīyān",
+//traduccion
+traduccion: "fumar",
+//caracter
+caracter: diCh.吸_xi_xī_ + diCh.烟_yan_yān_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "biăo",
+//traduccion
+traduccion: "reloj (de pulsera)",
+//caracter
+caracter: diCh.表_biao_biăo_
+},
+{categoria: "adjetivos",
+//pinyin
+pinyin: "nán",
+//traduccion
+traduccion: "difícil",
+//caracter
+caracter: diCh.难_nan_nán_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "dǎdī",
+//traduccion
+traduccion: "tomar un taxi",
+//caracter
+caracter: diCh.打_da_dă_ + diCh.的_de_
+},
+{categoria: "etiqueta",
+//pinyin
+pinyin: "báibai",
+//traduccion
+traduccion: "adiós (transliteración)",
+//caracter
+caracter: diCh.拜_bai_bài_ + diCh.拜_bai_bài_
+},
+{categoria: "familia",
+//pinyin
+pinyin: "sūnnür",
+//traduccion
+traduccion: "nieta por parte hijo",
+//caracter
+caracter: diCh.孙_sun_sūn_ + diCh.女_nü_nǚ_ + diCh.儿_er_ér_
+},
+{categoria: "comida",
+//pinyin
+pinyin: "xiāngjiāopíngguǒ",
+//traduccion
+traduccion: "manzana sabor a platano",
+//caracter
+caracter: diCh.香_xiang_xiāng_ + diCh.蕉_jiao_jiāo_ + diCh.苹_ping_píng_ + diCh.果_guo_guŏ_
+},
+{categoria: "sustantivos",
+//pinyin
+pinyin: "Liáng Zhù",
+//traduccion
+traduccion: "nombre de un concierto para violín chino",
+//caracter
+caracter: diCh.梁_liang_liáng_ + diCh.祝_zhu_zhù_
+},
+{categoria: "lugares",
+//pinyin
+pinyin: "shāngchǎng",
+//traduccion
+traduccion: "centro comercial",
+//caracter
+caracter: diCh.商_shang_shāng_ + diCh.场_chang_chăng_
+},
+{categoria: "comida",
+//pinyin
+pinyin: "règǒu",
+//traduccion
+traduccion: "bocadillo",
+//caracter
+caracter: diCh.热_re_rè_ + diCh.狗_gou_gŏu_
+},
+{categoria: "comida",
+//pinyin
+pinyin: "xīcān",
+//traduccion
+traduccion: "comida occidental",
+//caracter
+caracter: diCh.西_xi_xī_ + diCh.餐_can_cān_
+},
+{categoria: "comida",
+//pinyin
+pinyin: "zhōngcān",
+//traduccion
+traduccion: "comida china",
+//caracter
+caracter: diCh.中_zhong_zhōng_ + diCh.餐_can_cān_
+},
+{categoria: "comida",
+//pinyin
+pinyin: "shòumiàn",
+//traduccion
+traduccion: "(cumpleaños) tallarines de la longevidad",
+//caracter
+caracter: diCh.寿_shou_shòu_ + diCh.面_mian_miàn_
+},
+{categoria: "comida",
+//pinyin
+pinyin: "kǎoyā",
+//traduccion
+traduccion: "pato laqueado",
+//caracter
+caracter: diCh.烤_kao_kăo_ + diCh.鸭_ya_yā_
 }

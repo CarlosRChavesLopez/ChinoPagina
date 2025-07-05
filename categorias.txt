@@ -17,3 +17,6 @@ preguntas
 profesiones
 pron dem
 numero
+particula
+familia
+comida
