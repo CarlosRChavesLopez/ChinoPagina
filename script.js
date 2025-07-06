@@ -3382,7 +3382,7 @@ function generarEnteroAleatorio(cantidadImagenes) {
 }  
 
 
-let buton1 = '<button id="boton" onclick="cargarImagenAleatoria();" >caracter aleatorio</button>';
+let buton1 = '<button id="boton" onclick="cargarImagenAleatoria(contador);" >caracter aleatorio</button>';
 let buton2 = '<button id="boton" onclick="mostrarRespuesta();" >respuesta</button>';
 
 const chHanzi = document.getElementById("chHanzi");
@@ -3412,10 +3412,25 @@ function setCheckpoints(){
 
 }
 
+function listaAleatoriaUnica(n, max) {
+  const numeros = new Set();
+  while (numeros.size < n) {
+    numeros.add(Math.floor(Math.random() * (max + 1)));
+  }
+  return Array.from(numeros);
+}
 
-function cargarImagenAleatoria(){
+let listaDeNumerosAleatorios = listaAleatoriaUnica(
+  caracteresPinyinTraduccion.length,
+  caracteresPinyinTraduccion.length - 1
+);
+
+let contador = 0;
+
+function cargarImagenAleatoria(c){
+    contador++;
     ocultarRespuesta();
-    let indiceAleatorio = generarEnteroAleatorio(caracteresPinyinTraduccion.length);
+    let indiceAleatorio = listaDeNumerosAleatorios[c];
     let caracterAleatorio = bufferCaracteres[indiceAleatorio];
     let pinyinAleatorio = bufferPinyin[indiceAleatorio];
     let traduccionAleatoria = bufferTraduccion[indiceAleatorio];
