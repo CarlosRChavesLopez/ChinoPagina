@@ -153,21 +153,17 @@ nav #dic{
     margin: 0;
 }
 
-#espanoldiv{
-    height: 4rem;
+#espanoldiv {
     width: 100%;
-    line-height: 4rem;
-    padding: 0;
+    padding: 1rem 0; 
     margin: 0;
     border-bottom: solid black 5px;
 }
 
-#espanoldiv *{
-    height: 4rem;
-    width: 100%;
-    line-height: 4rem;
-    padding: 0;
+#espanoldiv * {
     margin: 0;
+    padding: 0;
+    line-height: normal;
 }
 
 #botondiv{
