@@ -2164,7 +2164,7 @@ let caracteresPinyinTraduccion = [
     //pinyin
     pinyin: "zĕnmeyàng",
     //traduccion
-    traduccion: "cómo",
+    traduccion: "¿que tal?",
     //caracter
     caracter: diCh.怎_zen_zĕn_ + diCh.么_me_ + diCh.样_yang_yàng_
     },
